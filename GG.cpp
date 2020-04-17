@@ -1,7 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main(int argc, char const *argv[])
 {
-    /* code */
+    if (/* condition */)
+    {
+        /* code */
+    }
+
     return 0;
 }
